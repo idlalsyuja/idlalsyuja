@@ -1,8 +1,7 @@
 # Hi there, I'm Idlal Syuja - [idlalsyuja](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working at Currently, I am studying at Politeknik Negeri Padang,
-      majoring in Information Technology, specifically in the D3 Computer Engineering program.
-      [TI.PNP](https://ti.pnp.ac.id/)
+      majoring in Information Technology,[TI.PNP](https://ti.pnp.ac.id/)
 - 🌱 I’m currently learning Redhat,Oracle,Cisco,Mobile,Cyber Security dan Mikrotik
 - 🤔 I want to work and excel professionally in the field of IT. 
 - 💬 Ask me about anything
@@ -19,18 +18,19 @@
 
 ## Work Experience:
 #### 1. [PT. Carano Integrasi Teknologi](http://cit.co.id/) | It Consultant | Padang 2020 - 2022`
-   
-
+   - Network installation project at SMA 1 Lanbouw Bukittinggi
+   - Internship training at SMK2 Guguak Limupuluh Kota
+   - Firewall installation at Bapedda Office
+   - Network installation at PU office
 ---
-
 ### Languages and Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="cyber" width="30px" src="https://cuongquach.com/wp-content/uploads/2017/06/dvwa-logo-2.png" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="cisco" width="30px" src="https://th.bing.com/th/id/R.e5eae4ae69e73f2eb848492b61f7c981?rik=gFF2RqCWd29iSw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f11%2fCisco-logo.png&ehk=amjKwJX%2b3s9CVWoTkm%2fC8%2fqvlMChVLlDUH6S36sp9yE%3d&risl=&pid=ImgRaw&r=0" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="andoroid" width="30px" src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo.png" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="redhat" width="30px" src="https://th.bing.com/th/id/OIP.oNqFfD8TdCOWi4ccOGZzNwHaBv?pid=ImgDet&rs=1" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="oracle" width="30px" src="https://th.bing.com/th/id/OIP.FOWNaCKbxoep9X1jgWih4QHaC4?pid=ImgDet&rs=1" />][webdev]
+[<img align="left" alt="mikrotik" width="50px" src="https://th.bing.com/th/id/OIP.0vssZ0ehhgwLvcwnD_TyngHaB-?pid=ImgDet&rs=1" />][webdev]
 
 <br />
 <br />
