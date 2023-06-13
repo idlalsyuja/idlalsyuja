@@ -38,17 +38,12 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![Logo LinkedIn](https://example.com/linkedin-logo.png | width=10)](tautan-LinkedIn)
+[![Logo GitHub](https://example.com/github-logo.png | width=10)](tautan-GitHub)
+[![Logo Twitter](https://example.com/twitter-logo.png | width=10)](tautan-Twitter)
+[![Logo Facebook](https://example.com/facebook-logo.png | width=10)](tautan-Facebook)
+[![Logo Instagram](https://example.com/instagram-logo.png | width=10)](tautan-Instagram)
+
 
 
 
