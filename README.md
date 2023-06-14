@@ -52,6 +52,12 @@ Cheers,
 ##### - Red Hat System Administration II 9.0 (RH134 - 3 April 2023 - 31 Juli 2023)
 ##### - Red Hat System Administration I 9.0 (RH124 - 3 April 2023 - 31 Juli 2023)
 
+## Certifications
+
+- **Certified Network Associate (MTCNA)**: I have obtained the MTCNA certification, which demonstrates my understanding and skills in managing networks using MikroTik devices.
+- **RHSa 124: I have obtained the RHSa 124 certification**, demonstrating my understanding and skills in Red Hat operating system administration and maintenance. This certification covers topics such as installation, configuration, package management, and troubleshooting on Red Hat systems.
+- **RHSa 134: I have also earned the RHSa 134 certification**, showcasing my knowledge and skills in network administration on Red Hat systems. This certification encompasses topics such as network configuration, network service configuration, firewall management, and network security on Red Hat systems.
+
 ---
 ### Languages and Tools:
 
