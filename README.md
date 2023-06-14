@@ -73,7 +73,7 @@ You can contact me via email at [your-email@example.com](mailto:idlalsyuja@gmail
 For urgent matters or immediate assistance, you can give me a call at **(082346712191)**.
 ## Social Media
 You can also connect with me on social media platforms. Here are my profiles:
-- Facebook: [facebook.com/your-username](https://facebook.com/idlalsyujanizhamul)
-- Instagram: [instagram.com/your-username](https://instagram.com/idlalsyuja_)
-- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/idlalsyujanizhamul)
-[webdev]: https://github.com/idlalsyuja
+- Facebook: [facebook.com/idlalsyujanizhamul](https://facebook.com/idlalsyujanizhamul)
+- Instagram: [instagram.com/idlalsyuja_](https://instagram.com/idlalsyuja_)
+- LinkedIn: [linkedin.com/in/idlalsyujanizhamul](https://linkedin.com/in/idlalsyujanizhamul)
+- [webdev]: https://github.com/idlalsyuja
