@@ -76,4 +76,4 @@ You can also connect with me on social media platforms. Here are my profiles:
 - Facebook: [facebook.com/idlalsyujanizhamul](https://facebook.com/idlalsyujanizhamul)
 - Instagram: [instagram.com/idlalsyuja_](https://instagram.com/idlalsyuja_)
 - LinkedIn: [linkedin.com/in/idlalsyujanizhamul](https://linkedin.com/in/idlalsyujanizhamul)
-- [webdev]: https://github.com/idlalsyuja
+- Webdev: [webdev](https://github.com/idlalsyuja)
