@@ -8,14 +8,12 @@
 - 📫 How to reach me: idlalsyuja@gmail.com
 
 ## Education:
-
 #### 1. [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `now`
 #### 2. [SMK 3 PARIAMAN](https://www.smkn3-pariaman.sch.id/) | Computer Network Engineering | Pariaman `2018-2021`
    - Asistant Laboratorium Of Mikrotik Acadamy
    - Network Technician
      
 ## Organizational Experience:
-
 #### 1. MPU Mapala Politeknik Negeri Padang
       - Class Leader      (2021-2022)
       - Youth Leader      (2021-2022)
@@ -24,7 +22,6 @@
       - Polish Student    (2020-2021)
 
 ## Work Experience:
-
 #### 1. [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang 2020 - 2022`
    - Network installation project at SMA 1 Lanbouw Bukittinggi
    - Internship training at SMKN 2 Guguak Limupuluh Kota
