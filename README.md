@@ -68,10 +68,10 @@ Cheers,
 ---
 ### Connect with me:
 
-[![WhatsApp](https://ik.trn.asia/uploads/2022/10/1666685601974.png|width=100)](https://wa.me/082346712191)
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png|width=100)](https://www.youtube.com/channel/your_channel)
-[![Twitter](https://play-lh.googleusercontent.com/ZYRKNTmfOgGksi90iXbb2hD3QQUcYlR0Yuxh0veQK4Q92cWvc50QgADrDIBJunVXabBL|width=50)](https://twitter.com/your_username)
-[![LinkedIn](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw|width=50)](https://www.linkedin.com/in/your_profile)
-[![Instagram](https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg|width=50)](https://www.instagram.com/idlalsyuja_)
+# [![WhatsApp](https://wa.me/082346712191)
+# [![YouTube](https://www.youtube.com/channel/your_channel)
+# [![Twitter](https://twitter.com/your_username)
+# [![LinkedIn](https://www.linkedin.com/in/your_profile)
+# [![Instagram](https://www.instagram.com/idlalsyuja_)
 
 [webdev]: https://github.com/idlalsyuja
