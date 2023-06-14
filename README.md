@@ -2,14 +2,14 @@
 
 ## About me:
 - 👋 Name: Idlal Syuja Nizhamul
-- 🎓 Major: Informasi Technology
-- 🎓 Prodi: D3, Computer Engineering
+- 🎓 Major: Information Technology
+- 🎓 Program: D3, Computer Engineering
 - 🏫 University: Politeknik Negeri Padang
 - 🎓 Batch: 2021
 
 Hey there!
 
-I'm an enthusiastic Information Technology student studying at [Politeknik Negeri Padang]. I love exploring the world of technology and continuously developing my knowledge and skills.
+I'm an enthusiastic Information Technology student studying at [Politeknik Negeri Padang](https://www.pnp.ac.id/). I love exploring the world of technology and continuously developing my knowledge and skills.
 
 📚 Throughout my studies, I have delved into various IT fields such as programming, networking, databases, cybersecurity, and application development. I have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
 
@@ -21,7 +21,7 @@ Feel free to reach out to me if you have any questions or want to discuss anythi
 
 💬 Ask me about anything.
 
-Cheers,
+Cheers,  
 [idlalsyuja](https://github.com/idlalsyuja/)
 
 ---
@@ -30,7 +30,7 @@ Cheers,
 ### Formal
 - [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `2020-NOW`
 - [SMK Negeri 3 Pariaman](https://www.smkn3-pariaman.sch.id/) | Computer Network Engineering | Pariaman `2018-2021`
-  - Assistant Laboratory of Mikrotik Academy
+  - Assistant Laboratory of MikroTik Academy
   - Network Technician
 
 ### Non-Formal
@@ -52,7 +52,7 @@ Cheers,
 - [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang 2020-2022`
   - Installation of Wi-Fi access points and MikroTik servers at SMA N 1 Bukittinggi
   - Network 4G XL and Indosat Area Sumatera Barat
-  - Internship training at SMKN 2 Guguak Limupuluh Kota
+  - Internship training at SMKN 2 Guguak Limapuluh Kota
   - Firewall installation at Bapedda Office
   - Network installation at PU office
 
@@ -97,12 +97,13 @@ Cheers,
 **Phone:** For urgent matters or immediate assistance, you can give me a call at **082346712191**.
 
 **Social Media:** You can also connect with me on social media platforms. Here are my profiles:
-- Facebook: [facebook.com/idlalsyujanizhamul](https://facebook.com/idlalsyujanizhamul)
-- Instagram: [instagram.com/idlalsyuja_](https://instagram.com/idlalsyuja_)
-- LinkedIn: [linkedin.com/in/idlalsyujanizhamul](https://linkedin.com/in/idlalsyujanizhamul)
-- GitHub: [github.com/idlalsyuja](https://github.com/idlalsyuja)
+- [Facebook](https://facebook.com/idlalsyujanizhamul)
+- [Instagram](https://instagram.com/idlalsyuja_)
+- [LinkedIn](https://linkedin.com/in/idlalsyujanizhamul)
+- [GitHub](https://github.com/idlalsyuja)
 
 Let's stay connected and make the most of our IT journey together!
 
 Best regards,
+
 Idlal Syuja Nizhamul
