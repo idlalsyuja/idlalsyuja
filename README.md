@@ -67,11 +67,13 @@ Cheers,
 
 ---
 ### Connect with me:
-
-# [![WhatsApp](https://wa.me/082346712191)
-# [![YouTube](https://www.youtube.com/channel/your_channel)
-# [![Twitter](https://twitter.com/your_username)
-# [![LinkedIn](https://www.linkedin.com/in/your_profile)
-# [![Instagram](https://www.instagram.com/idlalsyuja_)
-
+## Email
+You can contact me via email at [your-email@example.com](mailto:idlalsyuja@gmail.com). I strive to respond to all emails within 24 hours.
+## Phone
+For urgent matters or immediate assistance, you can give me a call at **(082346712191)**.
+## Social Media
+You can also connect with me on social media platforms. Here are my profiles:
+- Facebook: [facebook.com/your-username](https://facebook.com/idlalsyujanizhamul)
+- Instagram: [instagram.com/your-username](https://instagram.com/idlalsyuja_)
+- LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/idlalsyujanizhamul)
 [webdev]: https://github.com/idlalsyuja
