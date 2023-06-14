@@ -55,12 +55,12 @@ Cheers,
 ---
 ### Languages and Tools:
 
-[<img align="left" alt="cyber" width="30px" src="https://cuongquach.com/wp-content/uploads/2017/06/dvwa-logo-2.png" style="padding-right:15px;" />][webdev]
-[<img align="left" alt="cisco" width="30px" src="https://th.bing.com/th/id/R.e5eae4ae69e73f2eb848492b61f7c981?rik=gFF2RqCWd29iSw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f11%2fCisco-logo.png&ehk=amjKwJX%2b3s9CVWoTkm%2fC8%2fqvlMChVLlDUH6S36sp9yE%3d&risl=&pid=ImgRaw&r=0" style="padding-right:15px;" />][webdev]
-[<img align="left" alt="andoroid" width="30px" src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo.png" style="padding-right:15px;" />][webdev]
-[<img align="left" alt="redhat" width="30px" src="https://th.bing.com/th/id/OIP.oNqFfD8TdCOWi4ccOGZzNwHaBv?pid=ImgDet&rs=1" style="padding-right:15px;" />][webdev]
-[<img align="left" alt="oracle" width="30px" src="https://th.bing.com/th/id/OIP.FOWNaCKbxoep9X1jgWih4QHaC4?pid=ImgDet&rs=1" />][webdev]
-[<img align="left" alt="mikrotik" width="50px" src="https://th.bing.com/th/id/OIP.0vssZ0ehhgwLvcwnD_TyngHaB-?pid=ImgDet&rs=1" />][webdev]
+[<img align="left" alt="cyber" width="40px" src="https://cuongquach.com/wp-content/uploads/2017/06/dvwa-logo-2.png" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="cisco" width="40px" src="https://th.bing.com/th/id/R.e5eae4ae69e73f2eb848492b61f7c981?rik=gFF2RqCWd29iSw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f11%2fCisco-logo.png&ehk=amjKwJX%2b3s9CVWoTkm%2fC8%2fqvlMChVLlDUH6S36sp9yE%3d&risl=&pid=ImgRaw&r=0" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="andoroid" width="40px" src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo.png" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="redhat" width="40px" src="https://th.bing.com/th/id/OIP.oNqFfD8TdCOWi4ccOGZzNwHaBv?pid=ImgDet&rs=1" style="padding-right:15px;" />][webdev]
+[<img align="left" alt="oracle" width="40px" src="https://th.bing.com/th/id/OIP.FOWNaCKbxoep9X1jgWih4QHaC4?pid=ImgDet&rs=1" />][webdev]
+[<img align="left" alt="mikrotik" width="40px" src="https://th.bing.com/th/id/OIP.0vssZ0ehhgwLvcwnD_TyngHaB-?pid=ImgDet&rs=1" />][webdev]
 
 <br />
 <br />
