@@ -10,13 +10,12 @@
 ## Education:
 
 #### 1. [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `now`
-      
 #### 2. [SMK 3 PARIAMAN](https://www.smkn3-pariaman.sch.id/) | Computer Network Engineering | Pariaman `2018-2021`
    - Asistant Laboratorium Of Mikrotik Acadamy
    - Network Technician
-
      
 ## Organizational Experience:
+
 #### 1. MPU Mapala Politeknik Negeri Padang
       - Class Leader      (2021-2022)
       - Youth Leader      (2021-2022)
@@ -24,12 +23,11 @@
       - Platoon Commander (2018-2020)
       - Polish Student    (2020-2021)
 
-
 ## Work Experience:
 
 #### 1. [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang 2020 - 2022`
    - Network installation project at SMA 1 Lanbouw Bukittinggi
-   - Internship training at SMK2 Guguak Limupuluh Kota
+   - Internship training at SMKN 2 Guguak Limupuluh Kota
    - Firewall installation at Bapedda Office
    - Network installation at PU office
 ---
@@ -48,16 +46,10 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/idlalsyuja_/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/idlalsyuja_/)
+[![WhatsApp](https://ik.trn.asia/uploads/2022/10/1666685601974.png|width=10)](https://wa.me/082346712191)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png|width=10)](https://www.youtube.com/channel/your_channel)
+[![Twitter](https://play-lh.googleusercontent.com/ZYRKNTmfOgGksi90iXbb2hD3QQUcYlR0Yuxh0veQK4Q92cWvc50QgADrDIBJunVXabBL|width=10)](https://twitter.com/your_username)
+[![LinkedIn](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw|width=10)](https://www.linkedin.com/in/your_profile)
+[![Instagram](https://img.freepik.com/free-vector/instagram-icon_1057-2227.jpg|width=10)](https://www.instagram.com/idlalsyuja_)
 
 [webdev]: https://github.com/idlalsyuja
