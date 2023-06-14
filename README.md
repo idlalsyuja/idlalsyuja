@@ -1,9 +1,9 @@
 # Hi there, I'm Idlal Syuja - [idlalsyuja](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
       👋- Name       : Idlal Syuja Nizhamul
-      🎓- Major      : [Informasi Technology](https://ti.pnp.ac.id/)
-      🎓- Prodi      : D3 Computer Engineer
-      🏫- University : [Politeknik Negeri Padang](https://www.pnp.ac.id/)
+      🎓- Major      : Informasi Technology
+      🎓- Prodi      : D3, Computer Engineering
+      🏫- University : Politeknik Negeri Padang 
       🎓- Batch      : 2021
 Hey there!
 - I'm an enthusiastic Information Technology student studying at [Politeknik Negeri Padang]. I love exploring the world of technology and continuously developing my knowledge and skills.
@@ -15,10 +15,7 @@ Hey there!
 - 📫 How to reach me: idlalsyuja@gmail.com
 
 Cheers,
-[idlalsyuja]
-
-
-      
+[idlalsyuja](https://github.com/idlalsyuja/)
 
 ## Education:
 ### Formal
