@@ -14,11 +14,12 @@ I enjoy collaborating with others, sharing ideas, and working together to overco
 
 ### Formal
 - [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `2020-NOW`
-
-### Non-Formal
 - [SMK Negeri 3 Pariaman](https://www.smkn3-pariaman.sch.id/) | Computer Network Engineering | Pariaman `2018-2021`
   - Assistant Laboratory of MikroTik Academy
   - Network Technician
+
+### Non-Formal
+- [Indonetworkers.com](https://indonetworkers.com/) | Training Center | Padang `2020-2021`
 
 ---
 
