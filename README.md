@@ -105,7 +105,7 @@ I enjoy collaborating with others, sharing ideas, and working together to overco
 ## Connect with Me
 
 - GitHub: [idlalsyuja](https://github.com/idlalsyuja/)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- LinkedIn: [idlal syuja nizhamul](https://www.linkedin.com/in/yourname/)
 - Email: idlalsyuja@gmail.com
 - Phone: +62-82346712191
 
