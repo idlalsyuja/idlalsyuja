@@ -1,15 +1,17 @@
 # About Me
+I'm an enthusiastic Information Technology student at [Politeknik Negeri Padang](https://www.pnp.ac.id/) and interest of
+technology and continuously developing my knowledge and skills. 
 
-I'm an enthusiastic Information Technology student studying at [Politeknik Negeri Padang](https://www.pnp.ac.id/). I love exploring the world of technology and continuously developing my knowledge and skills.
+I have experience such as programming, networking, databases, cybersecurity, and
+application development. And have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
 
-Throughout my studies, I have delved into various IT fields such as programming, networking, databases, cybersecurity, and application development. I have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
+I believe that technology has the power to transform the world and provide creative solutions to real-life challenges. I'm
+determined to make a positive impact in the industry with my expertise.
 
-I believe that technology has the power to transform the world and provide creative solutions to real-life challenges. I am determined to make a positive impact in the industry with my expertise.
-
-I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges. I am always eager to learn and adapt to the ever-evolving tech landscape.
+I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges and always
+eager to learn and adapt to the ever-evolving tech landscape.
 
 ---
-
 ## Education
 
 ### Formal
