@@ -8,13 +8,6 @@ I believe that technology has the power to transform the world and provide creat
 
 I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges. I am always eager to learn and adapt to the ever-evolving tech landscape.
 
-Feel free to reach out to me if you have any questions or want to discuss anything related to IT. Let's make the most of our IT journey together!
-
-Ask me about anything.
-
-Cheers,  
-[idlalsyuja](https://github.com/idlalsyuja/)
-
 ---
 
 ## Education
