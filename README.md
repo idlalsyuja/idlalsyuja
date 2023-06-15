@@ -1,34 +1,35 @@
-## About me:
+# About Me
+
 I'm an enthusiastic Information Technology student studying at [Politeknik Negeri Padang](https://www.pnp.ac.id/). I love exploring the world of technology and continuously developing my knowledge and skills.
 
-📚 Throughout my studies, I have delved into various IT fields such as programming, networking, databases, cybersecurity, and application development. I have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
+Throughout my studies, I have delved into various IT fields such as programming, networking, databases, cybersecurity, and application development. I have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
 
-💡 I believe that technology has the power to transform the world and provide creative solutions to real-life challenges. I am determined to make a positive impact in the industry with my expertise.
+I believe that technology has the power to transform the world and provide creative solutions to real-life challenges. I am determined to make a positive impact in the industry with my expertise.
 
-🤝 I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges. I am always eager to learn and adapt to the ever-evolving tech landscape.
+I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges. I am always eager to learn and adapt to the ever-evolving tech landscape.
 
 Feel free to reach out to me if you have any questions or want to discuss anything related to IT. Let's make the most of our IT journey together!
 
-💬 Ask me about anything.
+Ask me about anything.
 
 Cheers,  
 [idlalsyuja](https://github.com/idlalsyuja/)
 
 ---
 
-## Education:
+## Education
+
 ### Formal
 - [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `2020-NOW`
+
+### Non-Formal
 - [SMK Negeri 3 Pariaman](https://www.smkn3-pariaman.sch.id/) | Computer Network Engineering | Pariaman `2018-2021`
   - Assistant Laboratory of MikroTik Academy
   - Network Technician
 
-### Non-Formal
-- [Indonetworkers.com](https://indonetworkers.com/) | Training Center | Padang `2020-2021`
-
 ---
 
-## Organizational Experience:
+## Organizational Experience
 - MPU Mapala Politeknik Negeri Padang
   - Class Leader (2021-2022)
   - Youth Leader (2021-2022)
@@ -38,8 +39,8 @@ Cheers,
 
 ---
 
-## Work Experience:
-- [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang 2020-2022`
+## Work Experience
+- [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang 2020-2022
   - Installation of Wi-Fi access points and MikroTik servers at SMA N 1 Bukittinggi
   - Network 4G XL and Indosat Area Sumatera Barat
   - Internship training at SMKN 2 Guguak Limapuluh Kota
@@ -48,7 +49,7 @@ Cheers,
 
 ---
 
-## Course / Training Experience:
+## Course/Training Experience
 - Enterprise Networking, Security, and Automation version 7.00 (July 2022 - Jan 2023)
 - Switching Routing and Wireless Essentials version 7.00 (March 2022 - Aug 2022)
 - Cybersecurity Essentials (Dec 2022 - May 2023)
@@ -60,14 +61,14 @@ Cheers,
 
 ---
 
-## Certifications:
+## Certifications
 - **Certified Network Associate (MTCNA):** I have obtained the MTCNA certification, which demonstrates my understanding and skills in managing networks using MikroTik devices.
 - **RHSa 124:** I have obtained the RHSa 124 certification, demonstrating my understanding and skills in Red Hat operating system administration and maintenance. This certification covers topics such as installation, configuration, package management, and troubleshooting on Red Hat systems.
 - **RHSa 134:** I have also earned the RHSa 134 certification, showcasing my knowledge and skills in network administration on Red Hat systems. This certification encompasses topics such as network configuration, network service configuration, firewall management, and network security on Red Hat systems.
 
 ---
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="cyber" width="40px" src="https://cuongquach.com/wp-content/uploads/2017/06/dvwa-logo-2.png" style="padding-right:15px;" />
 <img align="left" alt="cisco" width="40px" src="https://th.bing.com/th/id/R.e5eae4ae69e73f2eb848492b61f7c981?rik=gFF2RqCWd29iSw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f11%2fCisco-logo.png&ehk=amjKwJX%2b3s9CVWoTkm%2fC8%2fqvlMChVLlDUH6S36sp9yE%3d&risl=&pid=ImgRaw&r=0" style="padding-right:15px;" />
 <img align="left" alt="android" width="40px" src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo.png" style="padding-right:15px;" />
@@ -79,18 +80,21 @@ Cheers,
 <br />
 
 ---
-**Skills**               | **Soft Skills**
------------------------- | --------------------
-Programming              | Communication
-Networking               | Teamwork
-Database                 | Analytical Skills
-Cybersecurity            | Initiative
-App Development          | Learning Ability
-Red Hat                  | Adaptability
-Oracle                   | Time Management
-Cisco                    | Creativity
 
-### Connect with me:
+| **Skills**     | **Soft Skills**      |
+| -------------- | -------------------- |
+| Programming    | Communication        |
+| Networking     | Teamwork             |
+| Database       | Analytical Skills    |
+| Cybersecurity  | Initiative           |
+| App Development| Learning Ability     |
+| Red Hat        | Adaptability         |
+| Oracle         | Time Management      |
+| Cisco          | Creativity           |
+
+---
+
+### Connect with Me
 
 **Email:** You can contact me via email at [idlalsyuja@gmail.com](mailto:idlalsyuja@gmail.com). I strive to respond to all emails within 24 hours.
 
