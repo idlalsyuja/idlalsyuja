@@ -83,31 +83,31 @@ Cheers,
 
 ## Skills and Soft Skills
 
-### Skills
+#### Skills
 
-| Skills            | Rating         |
-| ----------------- | --------------       |
+| Skills            | Rating        |
+| ----------------- | --------------|
 | Programming       | ⭐⭐⭐        |
-| Networking        | ⭐⭐⭐⭐           |
-| Database          | ⭐⭐⭐           |
-| Cybersecurity     | ⭐⭐⭐          |
+| Networking        | ⭐⭐⭐⭐      |
+| Database          | ⭐⭐⭐        |
+| Cybersecurity     | ⭐⭐⭐        |
 | App Development   | ⭐⭐⭐        |
-| Red Hat           | ⭐⭐⭐⭐           |
-| Oracle            | ⭐⭐⭐⭐           |
-| Cisco             | ⭐⭐⭐⭐           |
+| Red Hat           | ⭐⭐⭐⭐     |
+| Oracle            | ⭐⭐⭐⭐     |
+| Cisco             | ⭐⭐⭐⭐     |
 
-### Soft Skills
+#### Soft Skills
 
-| Soft Skills       | Rating         |
-| ----------------- | -------------- |
+| Soft Skills       | Rating        |
+| ----------------- | --------------|
 | Communication     | ⭐⭐⭐⭐⭐  |
-| Teamwork          | ⭐⭐⭐⭐⭐           |
-| Analytical Skills | ⭐⭐⭐⭐⭐        |
-| Initiative        | ⭐⭐⭐⭐⭐            |
-| Learning Ability  | ⭐⭐⭐⭐⭐        |
-| Adaptability      | ⭐⭐⭐⭐⭐            |
-| Time Management   | ⭐⭐⭐⭐⭐        |
-| Creativity        | ⭐⭐⭐⭐⭐            |
+| Teamwork          | ⭐⭐⭐⭐⭐  |
+| Analytical Skills | ⭐⭐⭐⭐⭐  |
+| Initiative        | ⭐⭐⭐⭐⭐  |
+| Learning Ability  | ⭐⭐⭐⭐⭐  |
+| Adaptability      | ⭐⭐⭐⭐⭐  |
+| Time Management   | ⭐⭐⭐⭐⭐  |
+| Creativity        | ⭐⭐⭐⭐⭐  |
 
 
 ---
