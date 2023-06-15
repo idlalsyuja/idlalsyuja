@@ -13,7 +13,7 @@ I enjoy collaborating with others, sharing ideas, and working together to overco
 ## Education
 
 ### Formal
-- [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `2020-NOW`
+- [Politeknik Negeri Padang](https://www.pnp.ac.id/) | Department of Information Technology, D3 Computer Engineering Study Program | Padang `2021-NOW`
 - [SMK Negeri 3 Pariaman](https://www.smkn3-pariaman.sch.id/) | Computer Network Engineering | Pariaman `2018-2021`
   - Assistant Laboratory of MikroTik Academy
   - Network Technician
