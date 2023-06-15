@@ -79,18 +79,22 @@ Cheers,
 <br />
 
 ---
+**Skills**               | **Soft Skills**
+------------------------ | --------------------
+Programming              | Communication
+Networking               | Teamwork
+Database                 | Analytical Skills
+Cybersecurity            | Initiative
+App Development          | Learning Ability
+Red Hat                  | Adaptability
+Oracle                   | Time Management
+Cisco                    | Creativity
 
 ### Connect with me:
 
 **Email:** You can contact me via email at [idlalsyuja@gmail.com](mailto:idlalsyuja@gmail.com). I strive to respond to all emails within 24 hours.
 
 **Phone:** For urgent matters or immediate assistance, you can give me a call at **082346712191**.
-
-**Social Media:** You can also connect with me on social media platforms. Here are my profiles:
-- [Facebook](https://facebook.com/idlalsyujanizhamul)
-- [Instagram](https://instagram.com/idlalsyuja_)
-- [LinkedIn](https://linkedin.com/in/idlalsyujanizhamul)
-- [GitHub](https://github.com/idlalsyuja)
 
 Let's stay connected and make the most of our IT journey together!
 
