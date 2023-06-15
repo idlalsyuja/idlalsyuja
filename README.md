@@ -1,14 +1,4 @@
-# Hi there, I'm Idlal Syuja - [idlalsyuja](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
-
 ## About me:
-- 👋 Name: Idlal Syuja Nizhamul
-- 🎓 Major: Information Technology
-- 🎓 Program: D3, Computer Engineering
-- 🏫 University: Politeknik Negeri Padang
-- 🎓 Batch: 2021
-
-Hey there!
-
 I'm an enthusiastic Information Technology student studying at [Politeknik Negeri Padang](https://www.pnp.ac.id/). I love exploring the world of technology and continuously developing my knowledge and skills.
 
 📚 Throughout my studies, I have delved into various IT fields such as programming, networking, databases, cybersecurity, and application development. I have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
