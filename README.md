@@ -83,43 +83,41 @@ Cheers,
 
 ## Skills and Soft Skills
 
-#### Skills
+### Skills
 
-| Skills            | Rating        |
-| ----------------- | --------------|
+| Skills            | Rating         |
+| ----------------- | --------------       |
 | Programming       | ⭐⭐⭐        |
-| Networking        | ⭐⭐⭐⭐      |
-| Database          | ⭐⭐⭐        |
-| Cybersecurity     | ⭐⭐⭐        |
+| Networking        | ⭐⭐⭐⭐           |
+| Database          | ⭐⭐⭐           |
+| Cybersecurity     | ⭐⭐⭐          |
 | App Development   | ⭐⭐⭐        |
-| Red Hat           | ⭐⭐⭐⭐     |
-| Oracle            | ⭐⭐⭐⭐     |
-| Cisco             | ⭐⭐⭐⭐     |
+| Red Hat           | ⭐⭐⭐⭐           |
+| Oracle            | ⭐⭐⭐⭐           |
+| Cisco             | ⭐⭐⭐⭐           |
 
-#### Soft Skills
+### Soft Skills
 
-| Soft Skills       | Rating        |
-| ----------------- | --------------|
-| Communication     | ⭐⭐⭐⭐⭐  |
-| Teamwork          | ⭐⭐⭐⭐⭐  |
-| Analytical Skills | ⭐⭐⭐⭐⭐  |
-| Initiative        | ⭐⭐⭐⭐⭐  |
-| Learning Ability  | ⭐⭐⭐⭐⭐  |
-| Adaptability      | ⭐⭐⭐⭐⭐  |
-| Time Management   | ⭐⭐⭐⭐⭐  |
-| Creativity        | ⭐⭐⭐⭐⭐  |
-
+| Soft Skills       | Rating         |
+| ----------------- | --------------       |
+| Communication     | ⭐⭐⭐⭐⭐         |
+| Teamwork          | ⭐⭐⭐⭐⭐        |
+| Problem Solving   | ⭐⭐⭐⭐           |
+| Adaptability      | ⭐⭐⭐⭐         |
+| Creativity        | ⭐⭐⭐⭐         |
 
 ---
 
-### Connect with Me
+## Connect with Me
 
-**Email:** You can contact me via email at [idlalsyuja@gmail.com](mailto:idlalsyuja@gmail.com). I strive to respond to all emails within 24 hours.
+- GitHub: [idlalsyuja](https://github.com/idlalsyuja/)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- Email: idlalsyuja@gmail.com
+- Phone: +62-82346712191
 
-**Phone:** For urgent matters or immediate assistance, you can give me a call at **082346712191**.
+Feel free to reach out to me through any of the above channels. I would be happy to connect and discuss IT-related topics or answer any questions you may have.
 
-Let's stay connected and make the most of our IT journey together!
+Let's stay connected!
 
-Best regards,
-
-Idlal Syuja Nizhamul
+Cheers,  
+[idlalsyuja](https://github.com/idlalsyuja/)
