@@ -83,9 +83,9 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 | Database          | ⭐⭐⭐           |
 | Cybersecurity     | ⭐⭐⭐          |
 | App Development   | ⭐⭐⭐        |
-| Red Hat           | ⭐⭐⭐⭐           |
-| Oracle            | ⭐⭐⭐⭐           |
-| Cisco             | ⭐⭐⭐⭐           |
+| Red Hat           | ⭐⭐⭐           |
+| Oracle            | ⭐⭐⭐         |
+| Cisco             | ⭐⭐⭐          |
 
 ### Soft Skills
 
