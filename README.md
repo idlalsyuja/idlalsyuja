@@ -1,15 +1,9 @@
 # About Me
-I'm an enthusiastic Information Technology student at [Politeknik Negeri Padang](https://www.pnp.ac.id/) and interest of
-technology and continuously developing my knowledge and skills. 
+I'm an enthusiastic Information Technology student at [Politeknik Negeri Padang](https://www.pnp.ac.id/),and I have a keen interest in various areas of technology, including programming, networking, databases, cybersecurity, and application development. Additionally, I have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik. 
 
-I have experience such as programming, networking, databases, cybersecurity, and
-application development. And have a particular interest in Red Hat, Oracle, Cisco, Mobile, and MikroTik.
+I firmly believe that technology has the power to transform the world and provide creative solutions to real-life challenges. 
 
-I believe that technology has the power to transform the world and provide creative solutions to real-life challenges. I'm
-determined to make a positive impact in the industry with my expertise.
-
-I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges and always
-eager to learn and adapt to the ever-evolving tech landscape.
+Therefore, I am determined to make a positive impact in the industry with my expertise. I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges and always remain eager to learn and adapt to the ever-evolving tech landscape
 
 ---
 ## Education
@@ -107,7 +101,7 @@ eager to learn and adapt to the ever-evolving tech landscape.
 ## Connect with Me
 
 - GitHub: [idlalsyuja](https://github.com/idlalsyuja/)
-- LinkedIn: [idlal syuja nizhamul](https://www.linkedin.com/in/yourname/)
+- LinkedIn: [idlal syuja nizhamul](https://www.linkedin.com/in/idlal-syuja-6a4455268/)
 - Email: idlalsyuja@gmail.com
 - Phone: +62-82346712191
 
