@@ -6,6 +6,7 @@ I firmly believe that technology has the power to transform the world and provid
 Therefore, I am determined to make a positive impact in the industry with my expertise. I enjoy collaborating with others, sharing ideas, and working together to overcome technological challenges and always remain eager to learn and adapt to the ever-evolving tech landscape
 
 ---
+
 ## Education
 
 ### Formal
