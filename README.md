@@ -44,6 +44,8 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 - Enterprise Networking, Security, and Automation version 7.00 (July 2022 - Jan 2023)
 - Switching Routing and Wireless Essentials version 7.00 (March 2022 - Aug 2022)
 - Cybersecurity Essentials (Dec 2022 - May 2023)
+- OCIFo I Oracle Cloud Infrastructure Foundations I Learner
+- OCIFo II Oracle Cloud Infrastructure Foundations II Learner
 - Red Hat System Administration I 8.2 (RH124 - March 4, 2022 - September 3, 2022)
 - Red Hat System Administration II 9.0 (RH134 - September 21, 2022 - February 28, 2023)
 - Red Hat Enterprise Linux Automation with Ansible 9.0 (RH294 - March 15, 2023 - August 11, 2023)
@@ -54,6 +56,7 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 
 ## Certifications
 - **Certified Network Associate (MTCNA):** I have obtained the MTCNA certification, which demonstrates my understanding and skills in managing networks using MikroTik devices.
+- **Oracle Certified Foundation Associate:** The Oracle Certified Foundations Associate, Database credential provides concrete evidence of hands-on database knowledge and skills.
 - **RHSa 124:** I have obtained the RHSa 124 certification, demonstrating my understanding and skills in Red Hat operating system administration and maintenance. This certification covers topics such as installation, configuration, package management, and troubleshooting on Red Hat systems.
 - **RHSa 134:** I have also earned the RHSa 134 certification, showcasing my knowledge and skills in network administration on Red Hat systems. This certification encompasses topics such as network configuration, network service configuration, firewall management, and network security on Red Hat systems.
 
