@@ -59,9 +59,9 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 - **Oracle Certified Foundation Associate:** The Oracle Certified Foundations Associate, Database credential provides concrete evidence of hands-on database knowledge and skills.
 - **RHSa 124:** I have obtained the RHSa 124 certification, demonstrating my understanding and skills in Red Hat operating system administration and maintenance. This certification covers topics such as installation, configuration, package management, and troubleshooting on Red Hat systems.
 - **RHSa 134:** I have also earned the RHSa 134 certification, showcasing my knowledge and skills in network administration on Red Hat systems. This certification encompasses topics such as network configuration, network service configuration, firewall management, and network security on Red Hat systems.
-- **RH134:** Red Hat System Administration II 9.0
-- **RH294:** Red Hat Enterprise Linux Automation with Ansible 9.0
-- **RH124:** Red Hat System Administration I 9.0
+- **RH134:** Red Hat System Administration II 9.0, This certification focuses on Red Hat System Administration II, covering advanced topics in system administration on Red Hat systems.
+- **RH294:** Red Hat Enterprise Linux Automation with Ansible 9.0, This certification involves learning how to automate tasks using Ansible on Red Hat Enterprise Linux systems.
+- **RH124:** Red Hat System Administration I 9.0, This certification covers the basics of Red Hat System Administration I, focusing on fundamental concepts and skills for entry-level administrators.
 
 ---
 
