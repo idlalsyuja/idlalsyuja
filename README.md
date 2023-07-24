@@ -42,15 +42,15 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 
 ## Course/Training Experience
 - Enterprise Networking, Security, and Automation version 7.00 (July 2022 - Jan 2023)
-- Switching Routing and Wireless Essentials version 7.00 (March 2022 - Aug 2022)
 - Cybersecurity Essentials (Dec 2022 - May 2023)
-- OCIFo I Oracle Cloud Infrastructure Foundations I Learner
-- OCIFo II Oracle Cloud Infrastructure Foundations II Learner
+- OCIFo I Oracle Cloud Infrastructure Foundations I Learner (April 14, 2023 - July 05, 2023)
+- OCIFo II Oracle Cloud Infrastructure Foundations II Learner((April 14, 2023 - July 05, 2023)
 - Red Hat System Administration I 8.2 (RH124 - March 4, 2022 - September 3, 2022)
 - Red Hat System Administration II 9.0 (RH134 - September 21, 2022 - February 28, 2023)
 - Red Hat Enterprise Linux Automation with Ansible 9.0 (RH294 - March 15, 2023 - August 11, 2023)
 - Red Hat System Administration II 9.0 (RH134 - April 3, 2023 - July 31, 2023)
 - Red Hat System Administration I 9.0 (RH124 - April 3, 2023 - July 31, 2023)
+- Switching Routing and Wireless Essentials version 7.00 (March 2022 - Aug 2022)
 
 ---
 
