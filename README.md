@@ -73,31 +73,19 @@ I firmly believe that technology has the power to transform the world and provid
 <br />
 <br />
 
-
 ## Skills and Soft Skills
 
-### Skills
-
-| Skills            | Rating         |
-| ----------------- | -------------- |
-| Networking        | ⭐⭐⭐⭐        |
-| Programming       | ⭐⭐⭐          |
-| Database          | ⭐⭐⭐        |
-| Cybersecurity     | ⭐⭐⭐        |
-| App Development   | ⭐⭐⭐        |
-| Red Hat           | ⭐⭐⭐        |
-| Oracle            | ⭐⭐⭐        |
-| Cisco             | ⭐⭐⭐        |
-
-### Soft Skills
-
-| Soft Skills       | Rating         |
-| ----------------- | -------------- |
-| Communication     | ⭐⭐⭐⭐⭐      |
-| Teamwork          | ⭐⭐⭐⭐⭐      |
-| Problem Solving   | ⭐⭐⭐⭐        |
-| Adaptability      | ⭐⭐⭐⭐        |
-| Creativity        | ⭐⭐⭐⭐        |
+### Skills                                                 ### Soft Skills
+| Skills            | Rating         |                     | Soft Skills       | Rating         |
+| ----------------- | -------------- |                     | ----------------- | -------------- |
+| Networking        | ⭐⭐⭐⭐        |                  | Communication     | ⭐⭐⭐⭐⭐   |  
+| Programing        | ⭐⭐⭐        |                    | Teamwork          | ⭐⭐⭐⭐⭐      |
+| Database          | ⭐⭐⭐        |                     | Problem Solving   | ⭐⭐⭐⭐        |
+| Cybersecurity     | ⭐⭐⭐        |                     | Adaptability      | ⭐⭐⭐⭐        |
+| App Development   | ⭐⭐⭐        |                     | Creativity        | ⭐⭐⭐⭐        |
+ | Red Hat           | ⭐⭐⭐        |  
+ | Cisco             | ⭐⭐⭐        |
+| Oracle            | ⭐⭐⭐        |                        
 
 ## Connect with Me
 
