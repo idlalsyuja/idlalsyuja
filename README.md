@@ -90,17 +90,6 @@ I firmly believe that technology has the power to transform the world and provid
 - Problem Solving: ⭐⭐⭐⭐
 - Adaptability: ⭐⭐⭐⭐
 - Creativity: ⭐⭐⭐⭐
-
-## Connect with Me
-
-- GitHub: [idlalsyuja](https://github.com/idlalsyuja/)
-- LinkedIn: [idlal syuja nizhamul](https://www.linkedin.com/in/idlal-syuja-6a4455268/)
-- Email: idlalsyuja@gmail.com
-- Phone: +62-82346712191
-
-Feel free to reach out to me through any of the above channels. I would be happy to connect and discuss IT-related topics or answer any questions you may have.
-
-Let's stay connected!
-
+  
 Cheers,
 [idlalsyuja](https://github.com/idlalsyuja/)
