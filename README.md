@@ -31,13 +31,21 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 ---
 
 ## Work Experience
-- [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang 2020-2022
+- [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang, 2020-2022
   - Installation of Wi-Fi access points and MikroTik servers at SMA N 1 Bukittinggi
   - Network 4G XL and Indosat Area Sumatera Barat
   - Internship training at SMKN 2 Guguak Limapuluh Kota
   - Firewall installation at Bapedda Office
   - Network installation at PU office
-
+- [PT. Sewiwi Indonesia](https://swin.net.id) | Network Consultant, Data Centre, Infrastructure, Telecomunication | Depok, 2023
+  - Instalasi fiber Optik
+  - Instalasi Local Area Network Office(router,switch,AP,Printer)
+  - Migrasi network Mikrotik to Juniper at Indonesia Data Centre
+  - Manage Service and Maintanance Networ at Pondok indah Office Tower
+- PT. Perigi Logistics | Cengkareng 2023
+  - Reconfig Switch Cisco
+  - Troubleshooting Lan Office
+  - Instalasi Rack Server
 ---
 
 ## Course/Training Experience
@@ -57,12 +65,14 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 ## Certifications
 - **Certified Network Associate (MTCNA):** I have obtained the MTCNA certification, which demonstrates my understanding and skills in managing networks using MikroTik devices.
 - **Oracle Certified Foundation Associate:** The Oracle Certified Foundations Associate, Database credential provides concrete evidence of hands-on database knowledge and skills.
-- **RHSa 124:** I have obtained the RHSa 124 certification, demonstrating my understanding and skills in Red Hat operating system administration and maintenance. This certification covers topics such as installation, configuration, package management, and troubleshooting on Red Hat systems.
-- **RHSa 134:** I have also earned the RHSa 134 certification, showcasing my knowledge and skills in network administration on Red Hat systems. This certification encompasses topics such as network configuration, network service configuration, firewall management, and network security on Red Hat systems.
+- **RHSa 124:** I have obtained the RHSa 124 certification, demonstrating my understanding and skills in Red Hat operating system administration and maintenance. This certification     
+                covers topics such as installation, configuration, package management, and troubleshooting on Red Hat systems.
+- **RHSa 134:** I have also earned the RHSa 134 certification, showcasing my knowledge and skills in network administration on Red Hat systems. This certification encompasses topics                    such as network configuration, network service configuration, firewall management, and network security on Red Hat systems.
 - **RH134:** Red Hat System Administration II 9.0, This certification focuses on Red Hat System Administration II, covering advanced topics in system administration on Red Hat systems.
 - **RH294:** Red Hat Enterprise Linux Automation with Ansible 9.0, This certification involves learning how to automate tasks using Ansible on Red Hat Enterprise Linux systems.
-- **RH124:** Red Hat System Administration I 9.0, This certification covers the basics of Red Hat System Administration I, focusing on fundamental concepts and skills for entry-level administrators.
-
+- **RH124:** Red Hat System Administration I 9.0, This certification covers the basics of Red Hat System Administration I, focusing on fundamental concepts and skills for entry-level                administrators.
+-- **Network Fundamental** Connect one device to another device in order to receive and send data.
+  
 ---
 
 ### Languages and Tools
@@ -84,14 +94,15 @@ Therefore, I am determined to make a positive impact in the industry with my exp
 
 | Skills            | Rating         |
 | ----------------- | --------------       |
-| Programming       | ⭐⭐⭐        |
 | Networking        | ⭐⭐⭐⭐           |
+| Programming       | ⭐⭐⭐        |
 | Database          | ⭐⭐⭐           |
 | Cybersecurity     | ⭐⭐⭐          |
 | App Development   | ⭐⭐⭐        |
 | Red Hat           | ⭐⭐⭐           |
 | Oracle            | ⭐⭐⭐         |
 | Cisco             | ⭐⭐⭐          |
+
 
 ### Soft Skills
 
