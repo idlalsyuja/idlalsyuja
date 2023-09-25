@@ -61,14 +61,18 @@ I firmly believe that technology has the power to transform the world and provid
 - **RH294:** Red Hat Enterprise Linux Automation with Ansible 9.0, This certification involves learning how to automate tasks using Ansible on Red Hat Enterprise Linux systems.
 - **RH124:** Red Hat System Administration I 9.0, This certification covers the basics of Red Hat System Administration I, focusing on fundamental concepts and skills for entry-level administrators.
 - **Network Fundamental:** Connect one device to another device in order to receive and send data.
-
+  
 ## Languages and Tools
-![cyber](https://cuongquach.com/wp-content/uploads/2017/06/dvwa-logo-2.png)
-![cisco](https://th.bing.com/th/id/R.e5eae4ae69e73f2eb848492b61f7c981?rik=gFF2RqCWd29iSw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f11%2fCisco-logo.png&ehk=amjKwJX%2b3s9CVWoTkm%2fC8%2fqvlMChVLlDUH6S36sp9yE%3d&risl=&pid=ImgRaw&r=0)
-![android](https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo.png)
-![redhat](https://th.bing.com/th/id/OIP.oNqFfD8TdCOWi4ccOGZzNwHaBv?pid=ImgDet&rs=1)
-![oracle](https://th.bing.com/th/id/OIP.FOWNaCKbxoep9X1jgWih4QHaC4?pid=ImgDet&rs=1)
-![mikrotik](https://th.bing.com/th/id/OIP.0vssZ0ehhgwLvcwnD_TyngHaB-?pid=ImgDet&rs=1)
+<img align="left" alt="cyber" width="30px" src="https://cuongquach.com/wp-content/uploads/2017/06/dvwa-logo-2.png" style="padding-right:15px;" />
+<img align="left" alt="cisco" width="30px" src="https://th.bing.com/th/id/R.e5eae4ae69e73f2eb848492b61f7c981?rik=gFF2RqCWd29iSw&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2016%2f11%2fCisco-logo.png&ehk=amjKwJX%2b3s9CVWoTkm%2fC8%2fqvlMChVLlDUH6S36sp9yE%3d&risl=&pid=ImgRaw&r=0" style="padding-right:15px;" />
+<img align="left" alt="android" width="30px" src="https://desarrollador-android.com/wp-content/uploads/2015/03/android_studio_logo.png" style="padding-right:15px;" />
+<img align="left" alt="redhat" width="30px" src="https://th.bing.com/th/id/OIP.oNqFfD8TdCOWi4ccOGZzNwHaBv?pid=ImgDet&rs=1" style="padding-right:15px;" />
+<img align="left" alt="oracle" width="30px" src="https://th.bing.com/th/id/OIP.FOWNaCKbxoep9X1jgWih4QHaC4?pid=ImgDet&rs=1" style="padding-right:15px;" />
+<img align="left" alt="mikrotik" width="30px" src="https://th.bing.com/th/id/OIP.0vssZ0ehhgwLvcwnD_TyngHaB-?pid=ImgDet&rs=1" />
+
+<br />
+<br />
+
 
 ## Skills and Soft Skills
 
