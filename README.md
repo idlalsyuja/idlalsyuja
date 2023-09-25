@@ -42,9 +42,10 @@ Therefore, I am determined to make a positive impact in the industry with my exp
   - Instalasi Local Area Network Office(router,switch,AP,Printer)
   - Migrasi network Mikrotik to Juniper at Indonesia Data Centre
   - Manage Service and Maintanance Networ at Pondok indah Office Tower
-- PT. Perigi Logistics | Cengkareng 2023
+- PT. Perigi Logistics | Cengkareng, 2023
   - Reconfig Switch Cisco
   - Troubleshooting Lan Office
+  - Instalasi Access Point
   - Instalasi Rack Server
 ---
 
