@@ -43,6 +43,28 @@ Saya meyakini dengan tegas bahwa teknologi memiliki kekuatan untuk mengubah duni
   - Troubleshooting Jaringan Lokal Kantor
   - Instalasi Titik Akses
   - Instalasi Rack Server
+## Keterampilan dan Keterampilan Interpersonal
+
+**Keterampilan**
+- Jaringan: ⭐⭐⭐⭐
+- Pemrograman: ⭐⭐⭐
+- Basis Data: ⭐⭐⭐
+- Keamanan Cyber: ⭐⭐⭐
+- Pengembangan Aplikasi: ⭐⭐⭐
+- Red Hat: ⭐⭐⭐
+- Cisco: ⭐⭐⭐
+- Oracle: ⭐⭐⭐
+
+**Keterampilan Interpersonal**
+- Komunikasi: ⭐⭐⭐⭐⭐
+- Kerja Tim: ⭐⭐⭐⭐⭐
+- Pemecahan Masalah: ⭐⭐⭐⭐
+- Adaptabilitas: ⭐⭐⭐⭐
+- Kreativitas: ⭐⭐⭐⭐
+  
+Salam,
+[idlalsyuja](https://github.com/idlalsyuja/)
+
 
 
 
