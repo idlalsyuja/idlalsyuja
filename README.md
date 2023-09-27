@@ -11,10 +11,6 @@ Saya meyakini dengan tegas bahwa teknologi memiliki kekuatan untuk mengubah duni
   - Asisten Laboratorium MikroTik Academy
   - Teknisi Jaringan
 
-
-
-
-
 ### Non-Formal
 - [Indonetworkers.com](https://indonetworkers.com/) | Pusat Pelatihan | Padang `2020-2021`
 
@@ -50,10 +46,6 @@ Saya meyakini dengan tegas bahwa teknologi memiliki kekuatan untuk mengubah duni
 - Pemrograman: ⭐⭐⭐
 - Basis Data: ⭐⭐⭐
 - Keamanan Cyber: ⭐⭐⭐
-- Pengembangan Aplikasi: ⭐⭐⭐
-- Red Hat: ⭐⭐⭐
-- Cisco: ⭐⭐⭐
-- Oracle: ⭐⭐⭐
 
 **Keterampilan Interpersonal**
 - Komunikasi: ⭐⭐⭐⭐⭐
