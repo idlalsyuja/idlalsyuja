@@ -23,22 +23,24 @@ I firmly believe that technology has the power to transform the world and provid
   - Polish Student (2020-2021)
 
 ## Work Experience
+- [PT. Sewiwi Indonesia](https://swin.net.id) | Network Consultant, Data Centre, Infrastructure, Telecomunication | Depok, 2023
+  - Instalasi fiber Optik
+  - Instalasi Local Area Network Office(router,switch,AP,Printer)
+  - Migrasi network Mikrotik to Juniper at Indonesia Data Centre
+  - Manage Service and Maintanance Network at Pondok indah Office Tower
+    
+- PT. Perigi Logistics | Cengkareng, 2023
+  - Reconfig Switch Cisco
+  - Troubleshooting Lan Office
+  - Instalasi Access Point
+  - Instalasi Rack Server
+    
 - [PT. Carano Integrasi Teknologi](http://cit.co.id/) | IT Consultant | Padang, 2020-2022
   - Installation of Wi-Fi access points and MikroTik servers at SMA N 1 Bukittinggi
   - Network 4G XL and Indosat Area Sumatera Barat
   - Internship training at SMKN 2 Guguak Limapuluh Kota
   - Firewall installation at Bapedda Office
   - Network installation at PU office
-- [PT. Sewiwi Indonesia](https://swin.net.id) | Network Consultant, Data Centre, Infrastructure, Telecomunication | Depok, 2023
-  - Instalasi fiber Optik
-  - Instalasi Local Area Network Office(router,switch,AP,Printer)
-  - Migrasi network Mikrotik to Juniper at Indonesia Data Centre
-  - Manage Service and Maintanance Networ at Pondok indah Office Tower
-- PT. Perigi Logistics | Cengkareng, 2023
-  - Reconfig Switch Cisco
-  - Troubleshooting Lan Office
-  - Instalasi Access Point
-  - Instalasi Rack Server
 
 ## Course/Training Experience
 - Enterprise Networking, Security, and Automation version 7.00 (July 2022 - Jan 2023)
